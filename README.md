@@ -4,7 +4,7 @@
 ### About Me
 - I'm a full stack Microsoft.NET trainer
 - I love to teach and I work as a freelancer
-- I have delivered successful trainings for Wipro, Capgemini, Hexaware, Dxc technology, Cognizant, FIS Global, Protiviti
+- I have delivered successful trainings for Wipro, Capgemini, Hexaware, Dxc technology, FIS Global, Protiviti
 
 ### Find Me
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9xtfCTOxAo8HqHbgFcq18A) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techiesyed) [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/techiesyed)
